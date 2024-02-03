@@ -1,2 +1,2 @@
 # VAE
-Variational Autoencoders Experiments
+Variational Autoencoders Experiments new
